@@ -21,7 +21,7 @@
 title: ENILINE_Blog
 email: 231880138@smail.nju.edu.con
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/ENILINE_Blog" # the subpath of your site, e.g. /blog
+baseurl: "/ENILINE_Blog_Jekyll" # the subpath of your site, e.g. /blog
 url: "https://ENILINE.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: NaN
 github_username:  ENILINE
